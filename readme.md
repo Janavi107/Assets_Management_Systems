@@ -1,5 +1,7 @@
 ASSETS MANAGEMENT SYSTEM
+
 PROPOSED SOLUTION
+
 Data may power the energy industry's modern digital transformation. The data
 collection procedure frequently involves too much redundancy. Workers must continually
 collect the same data due to outdated protocols so that it may be entered into different data
